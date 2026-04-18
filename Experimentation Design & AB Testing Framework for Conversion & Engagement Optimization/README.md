@@ -111,4 +111,4 @@ Specifically, the project aimed to:
 
 ## 🎥 YouTube Walkthrough
 
-https://youtu.be/VppP0DyTpyU
+https://youtu.be/tJMI38cwYRw
