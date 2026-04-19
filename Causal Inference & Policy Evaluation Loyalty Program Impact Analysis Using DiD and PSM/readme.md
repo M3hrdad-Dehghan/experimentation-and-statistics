@@ -75,8 +75,6 @@ Specifically, the project aimed to:
   - Standardized Mean Difference (SMD) for balance assessment
 - **Data Engineering**
   - Panel data construction, longitudinal dataset design, feature engineering
-- **Python**
-  - End-to-end pipeline: data simulation, regression modeling, matching algorithm, visualization
 - **Decision Science**
   - Translating causal estimates into business conclusions about program effectiveness
 - **Communication**
