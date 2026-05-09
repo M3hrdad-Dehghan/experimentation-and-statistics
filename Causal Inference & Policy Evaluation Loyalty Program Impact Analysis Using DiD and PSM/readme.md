@@ -84,4 +84,4 @@ Specifically, the project aimed to:
 
 ## 🎥 YouTube Walkthrough
 
-......
+https://youtu.be/hYS-XW_z6a0
